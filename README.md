@@ -7,9 +7,8 @@ Anyways, Here is the Install Guide
 
 1. Click on "Neucloud.sb3" to download the AI file to your computer. (NOTE: I AM NOT A HACKER SINCE I AM A MINOR AND I DON'T EVEN KNOW HOW TO CODE JAVA OR PYTHON)
 
-2. Go back to Scratch.
-3. Create New Project (or use one in trash/an empty one)
-4. Next to Settings, click File in header
+2. Go to TurboWarp.
+3. Load the File either in turbowarp.org/editor or click file above and load the file.
 5. Click Load From Computer
 6. Load Neucloud.sb3
-7. You Have AI in Scratch!
+7. You Have AI in Scratch/AKA Turbowarp!
